@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **plus [at] plushugh.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/plushugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="plushugh" height="30" width="40" /></a>
 <a href="https://twitter.com/plushugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plushugh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/plushugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="plushugh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I use (incomplete):</h3>
+<h3 align="left">🛠️ Languages and Tools I use (incomplete):</h3>
 <p align="left"> <img src="https://unpkg.com/simple-icons@9.4.0/icons/1password.svg" alt="1password icon" width="40" height="40" />
 <img src="https://unpkg.com/simple-icons@9.4.0/icons/amazonaws.svg" alt="amazonaws icon" width="40" height="40" />
 <img src="https://unpkg.com/simple-icons@9.4.0/icons/archlinux.svg" alt="archlinux icon" width="40" height="40" />
@@ -169,7 +169,7 @@
 
 <h3 align="left">⚡📈 Some stats:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plushugh" alt="plushugh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plushugh&no-frame=true" alt="plushugh" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plushugh&show_icons=true&locale=en&layout=compact" alt="plushugh" /></p>
 
