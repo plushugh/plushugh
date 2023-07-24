@@ -19,7 +19,7 @@
 <a href="https://twitter.com/plushugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plushugh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/plushugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="plushugh" height="30" width="40" /></a>
 </p>
-
+<!--
 <h3 align="left">🛠️ Languages and Tools I use (incomplete):</h3>
 <p align="left"> <img src="https://unpkg.com/simple-icons@9.4.0/icons/1password.svg" alt="1password icon" width="40" height="40" />
 <img src="https://unpkg.com/simple-icons@9.4.0/icons/amazonaws.svg" alt="amazonaws icon" width="40" height="40" />
@@ -163,7 +163,7 @@
 <img src="https://unpkg.com/simple-icons@9.4.0/icons/yaml.svg" alt="yaml icon" width="40" height="40" />
 <img src="https://unpkg.com/simple-icons@9.4.0/icons/yarn.svg" alt="yarn icon" width="40" height="40" />
 <img src="https://unpkg.com/simple-icons@9.4.0/icons/zig.svg" alt="zig icon" width="40" height="40" /> </p>
-
+-->
 <h3 align="left">🎗️ Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/plushugh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="plushugh" /></a></p><br><br>
 
