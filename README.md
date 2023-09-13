@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm plushugh</h1>
-<h3 align="left">A FOSS-oriented full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plushugh&label=Profile%20views&color=0e75b6&style=flat-square" alt="plushugh" /> </p>
 
 - 🔭 I’m currently working on [TallyTime](https://github.com/radioclub/tallytime)
 
-- 🌱 I’m currently learning **blender, rust, go, deno, fresh, bun, D3**
+- 🌱 I’m currently learning **rust, go, deno, bun, elysia, D3**
 
 - 🧑‍💻 Contributions welcome: [Examschedule](https://github.com/plushugh/examschedule)
 
