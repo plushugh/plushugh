@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, nextjs, svelte, sveltekit, typescript**
 
-- 📫 How to reach me **plus [at] plushugh.com**
+- 📫 How to reach me **hughhe [at] uhenry.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
