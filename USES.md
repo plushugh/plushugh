@@ -27,7 +27,7 @@ I run an Drunkdeer G65 for gaming (Hall Effect)
 
 For Code:
 
-Tofu60v2 Anodized Black + Brass Weight
+Tofu60v2 HHKB Anodized Black + Brass Weight
 
 - PC Plate
 - Silicone Bowl Mount (60g)
