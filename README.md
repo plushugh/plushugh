@@ -1,11 +1,11 @@
 <h1 align="left">Hi [👋], I'm plushugh</h1>
 
 <p>
-  <img src="https://avatars.githubusercontent.com/u/46068081?v=4" />
+  <img alt="profile pic" src="https://avatars.githubusercontent.com/u/46068081?v=4" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=plushugh&color=blueviolet&style=for-the-badge" alt="plushugh" />
+  <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=plushugh&color=blueviolet&style=for-the-badge" alt="plushugh" />
 </p>
 
 - [🔭] I’m currently working on [TallyTime](https://github.com/micro-henry/tallytime), [Regen Radio](https://github.com/radioclub/projects)
@@ -18,7 +18,7 @@
 
 - [📫] How to reach me **hughhe [at] uhenry.com**
 
-- [🔨] My Gear & Tools [/uses](/USES.md)
+- [🔨] My Gear & Tools [/uses](https://plushugh.com/uses)
 
 <h3 align="left">[connect with me]</h3>
 <p align="left">
@@ -38,13 +38,13 @@
 
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plushugh&theme=tokyonight&hide_border=true" alt="plushugh" />
+  <img alt="github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=plushugh&theme=tokyonight&hide_border=true" alt="plushugh" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=plushugh&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="plushugh" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=plushugh&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="plushugh" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=plushugh&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="plushugh" />
+  <img alt="most used lanugages" src="https://github-readme-stats.vercel.app/api/top-langs?username=plushugh&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="plushugh" />
 </p>
