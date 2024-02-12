@@ -18,6 +18,8 @@
 
 - [📫] How to reach me **hughhe [at] uhenry.com**
 
+- [🔨] My Gear & Tools [/uses](/USES.md)
+
 <h3 align="left">[connect with me]</h3>
 <p align="left">
 <a href="https://dev.to/plushugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="plushugh" height="30" width="40" /></a>
