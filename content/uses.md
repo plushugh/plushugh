@@ -1,4 +1,6 @@
-# Uses
++++
+title = "/uses"
++++
 
 Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 

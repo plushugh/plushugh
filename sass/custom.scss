@@ -1,0 +1,29 @@
+body[theme=dark] {
+  filter: unset
+}
+
+body[theme=dark] img {
+  filter: unset
+}
+
+body[theme=dark] img.invertable {
+  filter: unset
+}
+
+@media (prefers-color-scheme: dark) {
+  body[theme=auto] {
+    filter: unset
+  }
+
+  body[theme=auto] img {
+    filter: unset
+  }
+
+  body[theme=auto] img.invertable {
+    filter: unset
+  }
+}
+
+body {
+  font-family: 'Fantasque Sans Mono', monospace;
+}

@@ -1,0 +1,25 @@
+# The URL the site will be built for
+base_url = "https://plushugh.com"
+title = "plushugh"
+description = "plushugh's personal site"
+
+theme = "no-style-please"
+
+# compile_sass = true
+
+# build_search_index = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "tokyonight-night"
+extra_syntaxes_and_themes = ["highlight_themes/"]
+
+[extra]
+author = "Hugh He"
+logo = "/images/logo.png"
+
+header_nav = [{ name = "~home", url = "/" }, { name = "/uses", url = "/uses" }]
+footer_nav = []
+
+list_pages = true
+add_toc = true
