@@ -8,9 +8,9 @@
   <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=plushugh&color=blueviolet&style=for-the-badge" alt="plushugh" />
 </p>
 
-- [🔭] I’m currently working on [TallyTime](https://github.com/micro-henry/tallytime), [Regen Radio](https://github.com/radioclub/projects)
+- [🔭] I’m currently working on [TallyTime](https://github.com/micro-henry/tallytime), [Regen Radio](https://github.com/radioclub/projects) + [Radio Club Website](https://github.com/radioclub/website), [RP2040 KB Starter](https://github.com/plushugh/rp2040-kb-starter)
 
-- [🌱] I’m currently learning **go, hono, luciav3, D3**
+- [🌱] I’m currently learning **go, hono, luciav3**
 
 - [🧑‍💻] Contributions welcome: [Examschedule](https://github.com/plushugh/examschedule)
 
