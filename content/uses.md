@@ -24,7 +24,7 @@ Mounted on an cheap BRATECK monitor arm, works well.
 I run an Drunkdeer G65 for gaming (Hall Effect)
 
 - Case foam
-- PBTFans WOB simple icons keycap set
+- PBTFans BOW simple icons keycap set
 - Spacebar foam
 
 For Code:
@@ -34,7 +34,7 @@ Tofu60v2 WK Spray-Coated Klein Blue + Brass Weight
 - PC Plate
 - Silicone Bowl Mount (60g)
 - Gazzew Boba BLACK U4T 68g
-- NEO x QK 1.2mm PCB stabs
+- NEO x QK 1.2mm Milk White PCB stabs
 - PBTFans WOB keycap set
 - Case foam
 - Stock stabs w/ Krytox 205g0 + Krytox XHT-BDZ
