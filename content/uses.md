@@ -29,15 +29,16 @@ I run an Drunkdeer G65 for gaming (Hall Effect)
 
 For Code:
 
-Tofu60v2 HHKB Anodized Black + Brass Weight
+Tofu60v2 WK Spray-Coated Klein Blue + Brass Weight
 
 - PC Plate
 - Silicone Bowl Mount (60g)
-- Akko Cream Blue V3 Pro switches (only 1CNY/switch ????)
+- Gazzew Boba BLACK U4T 68g
+- NEO x QK 1.2mm PCB stabs
 - PBTFans WOB keycap set
 - Case foam
 - Stock stabs w/ Krytox 205g0 + Krytox XHT-BDZ
-- Unknown Error black outside white inside braided Cables w/ RGB lining
+- Unknown Error black/white braided Cables w/ RGB lining
 - KBDFans TOFU60 carrying case
 
 ### Mouse / Mousepad
@@ -58,7 +59,7 @@ Tofu60v2 HHKB Anodized Black + Brass Weight
 
 > A X99 platform workstation PC (runs Arch btw)
 >
-> *Specs:*
+> _Specs:_
 >
 > - Xeon E5-2667 v4 8c16t\@3.2Ghz from taobao
 > - Offbrand Chinese DDR4 X99 Motherboard with M.2 and gigabit ethernet from taobao
