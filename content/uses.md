@@ -21,25 +21,27 @@ Mounted on an cheap BRATECK monitor arm, works well.
 
 ### Keyboard
 
-I run an Drunkdeer G65 for gaming (Hall Effect)
+> I run an Drunkdeer G65 for gaming (Hall Effect)
+> 
+> - Case foam
+> - PBTFans BOW keycap set (simple-icons-base)
+> - Spacebar foam
 
-- Case foam
-- PBTFans BOW simple icons keycap set
-- Spacebar foam
+---
 
-For Code:
+> For Code:
 
-Tofu60v2 WK Spray-Coated Klein Blue + Brass Weight
-
-- PC Plate
-- Silicone Bowl Mount (60g)
-- Gazzew Boba BLACK U4T 68g
-- NEO x QK 1.2mm Milk White PCB stabs
-- PBTFans WOB keycap set
-- Case foam
-- Stock stabs w/ Krytox 205g0 + Krytox XHT-BDZ
-- Unknown Error black/white braided Cables w/ RGB lining
-- KBDFans TOFU60 carrying case
+> Tofu60v2 WK Spray-Coated Klein Blue + Brass Weight
+>
+> - PC Plate
+> - Silicone Bowl Mount (60g)
+> - Gazzew Boba BLACK U4T 68g
+> - NEO x QK 1.2mm Milk White PCB stabs
+> - PBTFans WOB keycap set (simple-base)
+> - Case foam
+> - Stock stabs w/ Krytox 205g0 + Krytox XHT-BDZ
+> - Unknown Error black/white braided Cables w/ RGB lining
+> - KBDFans TOFU60 carrying case
 
 ### Mouse / Mousepad
 
