@@ -36,11 +36,9 @@ Mounted on an cheap BRATECK monitor arm, works well.
 > - PC Plate
 > - Silicone Bowl Mount (60g)
 > - Gazzew Boba BLACK U4T 68g
-> - NEO x QK 1.2mm Milk White PCB stabs
+> - NEO x QK 1.2mm Milk White PCB stabs(205g0 housing, XHT-BDZ wires)
 > - PBTFans WOB keycap set (simple-base)
 > - Case foam
-> - Stock stabs w/ Krytox 205g0 + Krytox XHT-BDZ
-> - Unknown Error black/white braided Cables w/ RGB lining
 > - KBDFans TOFU60 carrying case
 
 ### Mouse / Mousepad
