@@ -52,7 +52,7 @@ Mounted on an cheap BRATECK monitor arm, works well.
 ### Audio
 
 - DAC: MOONDROP Dawn Pro
-- In-Ear: MOONDROP Kato Matte Steel (brass tube, stock foam tips, Line 'K' 4.4mm balanced cable)
+- In-Ear: MOONDROP Kato Matte Steel (brass tube, stock foam tips)
 - Over-Ear: Sony WH-1000XM5 (gifted)
 - Mic: Cheap SmallRig Type-C Lavalier Mic from taobao (10$US)
 - Mic: Audio-Technica ATR2100-USB Dynamic Mic
