@@ -41,6 +41,19 @@ Mounted on an cheap BRATECK monitor arm, works well.
 > - Case foam
 > - KBDFans TOFU60 carrying case
 
+---
+
+> Another board:
+> 
+> Keychron Q1V2 Knob Edition
+> 
+> - 3rd party POM plate
+> - C3 “Equalz” V3 Stabs 205g0 + XHT-BDZ
+> - Akko ASA profile keycap set
+> - Akko Piano Pro V3 switches
+> - 4 layer PCB tape + force break mod
+> - 3rd party Poron + plastic sheet in case
+
 ### Mouse / Mousepad
 
 - Logitech G Pro X Wireless (Gen 1) (scrollwheel kinda broken, blowing into the wheel fixes it for a while)
