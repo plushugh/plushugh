@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=plushugh&color=blueviolet&style=for-the-badge" alt="plushugh" />
+  <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=plushugh&color=blueviolet&style=for-the-badge" alt="plushugh avatar" />
 </p>
 
 - [🔭] I’m currently working on [TallyTime](https://github.com/micro-henry/tallytime), [Regen Radio](https://github.com/radioclub/projects) + [Radio Club Website](https://github.com/radioclub/website), [RP2040 KB Starter](https://github.com/plushugh/rp2040-kb-starter)
@@ -35,7 +35,6 @@
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plushugh&no-frame=true&theme=tokyonight&title=MultiLanguage,Reviews,Stars,Experience,Commits,Repositories" alt="plushugh" /></a>
 </p>
-
 
 <p>
   <img alt="github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=plushugh&theme=tokyonight&hide_border=true" alt="plushugh" />
