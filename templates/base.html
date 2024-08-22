@@ -1,6 +1,17 @@
-{% extends "no-style-please/templates/base.html" %}
-{% block css %}
-<link rel="stylesheet" href="{{ get_url(path='style.css', trailing_slash=false) | safe }}" />
-<link rel="stylesheet" href="{{ get_url(path='font.css', trailing_slash=false) | safe }}" />
-<link rel="stylesheet" href="{{ get_url(path='custom.css', trailing_slash=false) | safe }}" />
+{% extends "no-style-please/templates/base.html" %} {% block css %}
+<meta name="twitter:site" content="@plushugh" />
+<meta name="twitter:author" content="@plushugh" />
+
+<link
+  rel="stylesheet"
+  href="{{ get_url(path='style.css', trailing_slash=false) | safe }}"
+/>
+<link
+  rel="stylesheet"
+  href="{{ get_url(path='font.css', trailing_slash=false) | safe }}"
+/>
+<link
+  rel="stylesheet"
+  href="{{ get_url(path='custom.css', trailing_slash=false) | safe }}"
+/>
 {% endblock %}
