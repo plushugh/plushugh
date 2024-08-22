@@ -1,29 +1,44 @@
-body[theme=dark] {
-  filter: unset
+body[theme="dark"] {
+  filter: unset;
 }
 
-body[theme=dark] img {
-  filter: unset
+body[theme="dark"] img {
+  filter: unset;
 }
 
-body[theme=dark] img.invertable {
-  filter: unset
+body[theme="dark"] img.invertable {
+  filter: unset;
 }
 
 @media (prefers-color-scheme: dark) {
-  body[theme=auto] {
-    filter: unset
+  body[theme="auto"] {
+    filter: unset;
   }
 
-  body[theme=auto] img {
-    filter: unset
+  body[theme="auto"] img {
+    filter: unset;
   }
 
-  body[theme=auto] img.invertable {
-    filter: unset
+  body[theme="auto"] img.invertable {
+    filter: unset;
   }
 }
 
 body {
-  font-family: 'Fantasque Sans Mono', monospace;
+  font-family: "CommitMonoNatural", monospace;
+}
+
+em > strong {
+  // IKEA Style Tags
+  display: inline-block;
+  padding: 2px 6px;
+  font-style: normal;
+  font-weight: 700;
+  background: black;
+  color: white;
+}
+
+div.indent {
+  display: inline-block;
+  margin-left: 2em;
 }

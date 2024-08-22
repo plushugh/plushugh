@@ -1,51 +1,29 @@
-@font-face {
-  font-family: 'Fantasque Sans Mono';
-  src: url('/fonts/FantasqueSansMono-Regular.woff2') format('woff2'),
-    url('/fonts/FantasqueSansMono-Regular.woff') format('woff'),
-    /* Firefox >= 3.6, any other modern browser */
-    url('/fonts/FantasqueSansMono-Regular.ttf') format('truetype'),
-    /* Safari, Android, iOS */
-    url('/fonts/FantasqueSansMono-Regular.svg#FantasqueSansMono-Regular') format('svg');
-  /* Chrome < 4, Legacy iOS */
-  font-weight: 400;
-  font-style: normal;
+// "'ss03' on, 'ss04' on, 'ss05' on, 'cv01' on, 'cv02' on, 'cv06' on, 'cv08' on"
+
+@supports (font-variation-settings: normal) {
+  @font-face {
+    font-family: "CommitMonoNatural";
+    src: url("/fonts/CommitMono-VariableFont.woff2") format("woff2-variations"),
+      url("/fonts/CommitMono-VariableFont.ttf") format("truetype");
+    font-display: swap;
+    font-feature-settings: "ss03" on, "ss04" on, "ss05" on, "cv01" on, "cv02" on,
+      "cv06" on, "cv08" on;
+  }
 }
 
-@font-face {
-  font-family: 'Fantasque Sans Mono';
-  src: url('/fonts/FantasqueSansMono-Italic.woff2') format('woff2'),
-    url('/fonts/FantasqueSansMono-Italic.woff') format('woff'),
-    /* Firefox >= 3.6, any other modern browser */
-    url('/fonts/FantasqueSansMono-Italic.ttf') format('truetype'),
-    /* Safari, Android, iOS */
-    url('/fonts/FantasqueSansMono-Italic.svg#FantasqueSansMono-Italic') format('svg');
-  /* Chrome < 4, Legacy iOS */
-  font-weight: 400;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Fantasque Sans Mono';
-  src: url('/fonts/FantasqueSansMono-Bold.woff2') format('woff2'),
-    url('/fonts/FantasqueSansMono-Bold.woff') format('woff'),
-    /* Firefox >= 3.6, any other modern browser */
-    url('/fonts/FantasqueSansMono-Bold.ttf') format('truetype'),
-    /* Safari, Android, iOS */
-    url('/fonts/FantasqueSansMono-Bold.svg#FantasqueSansMono-Bold') format('svg');
-  /* Chrome < 4, Legacy iOS */
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Fantasque Sans Mono';
-  src: url('/fonts/FantasqueSansMono-BoldItalic.woff2') format('woff2'),
-    url('/fonts/FantasqueSansMono-BoldItalic.woff') format('woff'),
-    /* Firefox >= 3.6, any other modern browser */
-    url('/fonts/FantasqueSansMono-BoldItalic.ttf') format('truetype'),
-    /* Safari, Android, iOS */
-    url('/fonts/FantasqueSansMono-BoldItalic.svg#FantasqueSansMono-BoldItalic') format('svg');
-  /* Chrome < 4, Legacy iOS */
-  font-weight: 700;
-  font-style: italic;
+@supports not (font-variation-settings: normal) {
+  @font-face {
+    font-family: "CommitMonoNatural";
+    src: url("/fonts/CommitMono-400-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "CommitMonoNatural";
+    src: url("/fonts/CommitMono-400-Italic.otf") format("opentype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
 }
