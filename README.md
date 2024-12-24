@@ -8,15 +8,13 @@
   <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=plushugh&color=blueviolet&style=for-the-badge" alt="plushugh avatar" />
 </p>
 
-- [🔭] I’m currently working on [TallyTime](https://github.com/micro-henry/tallytime-hardware), [Regen Radio](https://github.com/radioclub/projects) + [Radio Club Website](https://github.com/radioclub/website)
+- [🔭] I’m currently working on [TallyTime](https://github.com/micro-henry/tallytime-hardware), Swimtime (Coming soom)
 
 - [🌱] I’m currently learning **Go, EE&PCB Design, Embedded Rust**
 
 - [🧑‍💻] Contributions welcome: [TallyTime](https://github.com/micro-henry/tallytime-hardware)
 
 - [💬] Ask me about **react, nextjs, svelte, sveltekit, typescript**
-
-- [📫] How to reach me **hughhe [at] uhenry.com**
 
 - [🔨] My Gear & Tools [/uses](https://plushugh.com/uses)
 
