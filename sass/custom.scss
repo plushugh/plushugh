@@ -28,14 +28,8 @@ body {
   font-family: "CommitMonoNatural", monospace;
 }
 
-em > strong {
-  // IKEA Style Tags
-  display: inline-block;
-  padding: 2px 6px;
+blockquote {
   font-style: normal;
-  font-weight: 700;
-  background: black;
-  color: white;
 }
 
 div.indent {
