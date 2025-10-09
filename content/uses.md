@@ -30,9 +30,15 @@ Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 > {{indent()}}recline-lock is very nice
 
 ### Monitor
+> *LG* **32GS95UV-B** Monitor
+> {{indent()}}32in 12bit 2160p@240Hz 1080p@480Hz
+> {{indent()}}1k$CAD after tax+shipping 
+> {{indent()}}WOLED panel, very noticable VRR flicker in dark scenes
+
+---
 
 > *Lenovo* **Legion y27qf-30** Monitor
-> {{indent()}}8bit 1440p@240Hz
+> {{indent()}}27in 8bit 1440p@240Hz
 > {{indent()}}Purchased in 2021, ~2k CNY(400$CAD)
 > {{indent()}}would not recommend, lots of smearing, buy OLED instead
 
@@ -45,7 +51,7 @@ Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 > - PC Plate
 > - Hotswap PCB (split-backspace)
 > - *HMX* **Yogurt** 37gf 
-> - Case (PCB) foam only
+> - All foam
 > - *Designer Studio* **Adaptive Screw-in Stabilizers** transparent-black (205g0 housing, dielectric grease wires)
 > - *KAT* **Operator** keycap set by [@biipmk](https://x.com/biipmk)
 
@@ -138,8 +144,29 @@ Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 
 ### Homelab
 
+TBA
 
+#### Rack
 
+> *GeeekPi* **RackMate T2** 12U 10in Rack
+>
+> From top to bottom:
+> - [1U] *Ubiquiti* **Unifi Express 7** AP+router
+> - [1U] *Ubiquiti* **USW Flex 2.5G PoE** 8x2.5G PoE++ 1x10GbE 1xSFP+
+> - [1U] *IWILLINK* **CAT6 Patch Panel for 10in Rack**
+> - [1U] *Ubiquiti* **USW Flex Mini 2.5G PoE** 4x2.5G 1x2.5G PoE in
+> - [1U] *Ubiquiti* **SBC Shelf Included w/ Rack**
+>   - *Raspberry Pi* **5 8G** 45W 5V@5A CanaKit PSU
+>   - **Type-C Power Supply** Type-C 2x100W 4x30W Type-A 4x18W
+> - [1U] *Dell*   **Optiplex 3040 Micro**    [zero]  i5-6500T  4C/4T 16G DDR3L GbE SATA256G
+> - [1U] *Dell*   **Optiplex 3040 Micro**    [one]   i5-6500T  4C/4T 16G DDR3L GbE SATA256G
+> - [1U] *Lenovo* **ThinkCentre M60e**       [two]   i5-1035G1 4C/8T 16G DDR4  GbE NVMe256G Re-Pasted
+> - [1U] *Dell*   **Optiplex 7070 Micro**    [three] i5-9500T  6C/6T 8G  DDR4  GbE NVMe256G
+> - [3U] Empty Space
+>
+> Others:
+> - Recessed 5-plug power bar w/ 3d-printed ears x2
+> - 2.5G Coax Uplink from Rogers Cable Modem
 
 ### Machines
 
@@ -149,14 +176,15 @@ Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 >
 > *Specs:*
 > 
-> - *AMD* **Ryzen 5 7500F** 6c12t\@3.7GHz
+> - *AMD* **Ryzen 5 7500F** 6C/12T\@3.7GHz
 > - *AMD* **Radeon RX 9060 XT 16GB** DO NOT BUY 8G VER.
 > - *MSI* **MPG B650I Edge WiFi** good value, B650 is discontinued, buy B850 instead
 > - *Kingston* **DDR5 6000MT/CL36 16G** x2 32G total (bought the wrong CL SKU)
-> - *SAMSUNG* **980 Pro 1TB** overkill? yes. not enough storage? yes. buy **990 EVO PLUS** instead
+> - *SAMSUNG* **980 Pro 1TB**
+> - *Lexar* **NM790 4TB**
 > - *Shiny Snake* **L300** Black, 4.0 Riser, vertical case is neat, minimal desk space required, need to use right angled HDMI/DP cable
-> - *Thermaltake* **TOUGH SFX 650W** cables are garbage, buy corsair instead, worth the money
-> - *Noctua* **NF-A12x15 PWM** very overkill, do not buy *Thermalright* **TL-H12015B** with this case, I had to shave off the corners of the fan with a knife and put spacers for it to fit, one fan died after ~6mo use
+> - *Thermaltake* **TOUGH SFX 650W** cables are garbage, buy corsair instead
+> - *Noctua* **NF-A12x15 PWM** overkill, do not buy *Thermalright* **TL-H12015B** with this case, I had to shave off the corners of the fan with a knife and put spacers for it to fit, one fan died after ~6mo use
 > - *Thermalright* **AXP90-X47 BLACK** forgot why I didn't buy **X53 FULL COPPER** instead, but enough for a 7500F
 > - *Thermalright* **AMD SECURE FRAME V2 BLACK** you dont need this
 > - A LOT of zip ties
@@ -167,15 +195,14 @@ Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 >
 > *Specs:*
 >
-> - *Xeon* **E5-2667 v4** 8c16t\@3.2GHz from taobao
-> - Offbrand Chinese DDR4 X99 Motherboard with M.2 and gigabit ethernet from taobao, not even standard size
+> - *Xeon* **E5-2667 v4** 8C16T\@3.2GHz from taobao
+> - Offbrand Chinese DDR4 X99 Motherboard with M.2 and GbE from taobao, not even standard size
 > - 2x8GB *Samsung* ECC RAM from taobao
 > - *Radeon* **RX590 GME** (rusty af)
 > - 512GB M.2 Drive taken from acer laptop
 > - 4TB HDD
 > - Offbrand Dual-fan CPU Cooler from taobao
 > - *HKC* **Titan** 600W PSU from taobao
-> - Built inside an *Sun Microsystems* **Ultra 24** Workstation case (ofc the dvd drive and fp IO doesn't work, removed disk bays)
 
 ---
 
@@ -190,6 +217,7 @@ Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 ### Editor
 
 Neovim
+https://github.com/plushugh/nnvim
 
 ### Font
 
