@@ -7,7 +7,7 @@ tags = ["meta", "gear"]
 toc = true
 +++
 
-*Updated on 2025-09-15 19:32:00 EST*
+*Updated on 2025-10-20 01:04:00 EST*
 
 Check out [uses.tech](https://uses.tech) for a list of everyone's /uses pages!
 
@@ -154,7 +154,6 @@ TBA
 > - [1U] *Ubiquiti* **Unifi Express 7** AP+router
 > - [1U] *Ubiquiti* **USW Flex 2.5G PoE** 8x2.5G PoE++ 1x10GbE 1xSFP+
 > - [1U] *IWILLINK* **CAT6 Patch Panel for 10in Rack**
-> - [1U] *Ubiquiti* **USW Flex Mini 2.5G PoE** 4x2.5G 1x2.5G PoE in
 > - [1U] *Ubiquiti* **SBC Shelf Included w/ Rack**
 >   - *Raspberry Pi* **5 8G** 45W 5V@5A CanaKit PSU
 >   - **Type-C Power Supply** Type-C 2x100W 4x30W Type-A 4x18W
@@ -162,10 +161,12 @@ TBA
 > - [1U] *Dell*   **Optiplex 3040 Micro**    [one]   i5-6500T  4C/4T 16G DDR3L GbE SATA256G
 > - [1U] *Lenovo* **ThinkCentre M60e**       [two]   i5-1035G1 4C/8T 16G DDR4  GbE NVMe256G Re-Pasted
 > - [1U] *Dell*   **Optiplex 7070 Micro**    [three] i5-9500T  6C/6T 8G  DDR4  GbE NVMe256G
+> - [1U] *Ubiquiti* **USW Flex Mini 2.5G PoE** 4x2.5G 1x2.5G PoE in
 > - [3U] Empty Space
 >
 > Others:
 > - Recessed 5-plug power bar w/ 3d-printed ears x2
+> - 210W Unifi PSU
 > - 2.5G Coax Uplink from Rogers Cable Modem
 
 ### Machines
