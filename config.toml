@@ -10,9 +10,9 @@ compile_sass = true
 # build_search_index = true
 
 [markdown]
-highlight_code = true
-highlight_theme = "tokyonight-night"
-extra_syntaxes_and_themes = ["highlight_themes/"]
+# highlight_code = true
+# highlight_theme = "tokyonight-night"
+# extra_syntaxes_and_themes = ["highlight_themes/"]
 
 [extra]
 header_nav = [

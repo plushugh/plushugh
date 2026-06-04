@@ -1,0 +1,72 @@
+<button
+  id="cook-mode-btn"
+  aria-pressed="false"
+  title="Keep screen on while cooking"
+  style="
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+    margin: 1em 0;
+    padding: 0.4em 0.85em;
+    border: 3px dashed currentColor;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    font-size: 0.85em;
+    cursor: pointer;
+    opacity: 0.75;
+    transition: opacity 0.15s, background 0.15s, color 0.15s;
+    box-sizing: border-box;
+  "
+>
+  <span class="cook-mode-label">Cook Mode Off (force screen on)</span>
+</button>
+
+<script>
+(function () {
+  var btn = document.getElementById('cook-mode-btn');
+  if (!btn) return;
+
+  // Hide if Wake Lock API unavailable
+  if (!('wakeLock' in navigator)) {
+    btn.style.display = 'none';
+    return;
+  }
+
+  var lock = null;
+  var active = false;
+
+  function setActive(on) {
+    active = on;
+    btn.setAttribute('aria-pressed', String(on));
+    btn.querySelector('.cook-mode-label').textContent = on ? 'Cook Mode On (screen forced on)' : 'Cook Mode Off (force screen on)';
+    btn.style.border = on ? '3px solid currentColor' : '3px dashed currentColor';
+  }
+
+  async function acquire() {
+    try {
+      lock = await navigator.wakeLock.request('screen');
+      setActive(true);
+      lock.addEventListener('release', function () {
+        lock = null;
+        setActive(false);
+      });
+    } catch (e) {
+      setActive(false);
+    }
+  }
+
+  function release() {
+    if (lock) { lock.release(); lock = null; }
+    setActive(false);
+  }
+
+  btn.addEventListener('click', function () {
+    active ? release() : acquire();
+  });
+
+  document.addEventListener('visibilitychange', function () {
+    if (active && document.visibilityState === 'visible') acquire();
+  });
+})();
+</script>
