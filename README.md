@@ -5,6 +5,3 @@
 <p>
   <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=plushugh&color=blueviolet&style=for-the-badge" alt="plushugh avatar" />
 </p>
-
-- Gear & Tools [/uses](https://plushugh.com/uses)
-
